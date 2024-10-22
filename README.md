@@ -27,7 +27,7 @@ Elexium is built using the following technologies:
 - **Frontend**: [Next.js](https://nextjs.org/)
 - **Authentication & Database**: [Firebase](https://firebase.google.com/)
 - **Blockchain Interaction**: [Web3.js](https://web3js.readthedocs.io/)
-- **Smart Contracts**: [Solidity](https://soliditylang.org/) (for deployment on Ethereum or other blockchains)
+- **Smart Contracts**: [Solidity](https://soliditylang.org/) (for deployment on Ethereum blockchain)
 
 ## Architecture
 
